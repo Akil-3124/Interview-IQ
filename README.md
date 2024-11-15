@@ -5,8 +5,9 @@ InterviewIQ AI is an advanced, AI-powered platform designed to streamline the re
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Prerequisites](#prerequisites)
+- [Installation](#installation)
+
 
 
 ## Features
